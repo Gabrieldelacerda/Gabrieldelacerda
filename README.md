@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Gabrieldelacerda
 - 👀 I’m interested in working in technology area
 - 🌱 I’m currently learning programming in different languages
-- 💞️ I’m looking to collaborate on multiple programming projects
+- 💞️ I’m looking to collaborate on technology projects
 - 📫 How to reach me: my Linkedin - https://www.linkedin.com/in/gabriel-moraes-preihsner-de-la-cerda-4a883a202/
 
 <!---
