@@ -1,29 +1,17 @@
 # Gabriel de la Cerda
 
-Building a solid foundation in DevOps through hands-on labs covering
-Docker, Kubernetes, CI/CD, observability, and infrastructure as code.
+DevOps-focused engineer building hands-on experience through real infrastructure labs — covering containerization, CI/CD, observability, and container orchestration.
 
-## What I'm studying
-- Kubernetes — workload management, services, probes, scaling
-- Docker — containers, compose, networking
-- CI/CD, monitoring, logging — in progress
+## Stack
 
-## Labs
-- [kubernetes-deployment](https://github.com/Gabrieldelacerda/kubernetes-deployment)
-
-📫 [LinkedIn](https://www.linkedin.com/in/gabriel-moraes-preihsner-de-la-cerda-4a883a202/)
-
----
-
-Construindo uma base sólida em DevOps através de labs práticos cobrindo
-Docker, Kubernetes, CI/CD, observabilidade e infraestrutura como código.
-
-## O que estou estudando
-- Kubernetes — workload management, services, probes, scaling
-- Docker — containers, compose, networking
-- CI/CD, monitoring, logging — em andamento
+**Containers & Orchestration** — Docker, Docker Compose, Kubernetes (kind)  
+**CI/CD** — GitHub Actions  
+**Cloud** — AWS (EC2)  
+**Observability** — Prometheus, Grafana, Loki, Fluent Bit  
+**Infrastructure** — Nginx, Linux, Terraform, Ansible  
 
 ## Labs
-- [kubernetes-deployment](https://github.com/Gabrieldelacerda/kubernetes-deployment)
+
+Pinned below — each project is a real, documented lab with a working setup and README.
 
 📫 [LinkedIn](https://www.linkedin.com/in/gabriel-moraes-preihsner-de-la-cerda-4a883a202/)
