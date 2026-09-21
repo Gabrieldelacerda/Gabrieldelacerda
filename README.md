@@ -1,9 +1,9 @@
 # Gabriel de la Cerda
 
-DevOps-focused engineer building hands-on experience with cloud infrastructure, containerization, CI/CD, observability, and container orchestration. My background in IT support gives me a practical foundation in systems and infrastructure.
+Cloud and DevOps-focused engineer building hands-on experience with infrastructure, automation, CI/CD, containerization, and observability. My background in IT support gives me a practical foundation in Linux, systems, and infrastructure.
 
-I work mainly with Docker, Docker Compose, Kubernetes (kind), GitHub Actions, AWS (EC2), Terraform, Ansible, Prometheus, Grafana, Loki, Fluent Bit, Nginx, and Linux.
+I work mainly with AWS, Docker, Kubernetes, GitHub Actions, Terraform, Ansible, Prometheus, Grafana, Loki, Fluent Bit, Nginx, and Linux.
 
-The repositories below contain hands-on labs covering different parts of a DevOps environment, from deploying applications and automating workflows to monitoring, logging, and container orchestration.
+The repositories below contain hands-on labs covering cloud infrastructure, deployment automation, monitoring, logging, and container orchestration.
 
-📫 [LinkedIn](https://www.linkedin.com/in/gabriel-moraes-preihsner-4a883a202/)
+📫 [LinkedIn](https://www.linkedin.com/in/gabriel-moraes-preihsner-de-la-cerda-4a883a202/)
