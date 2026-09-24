@@ -6,4 +6,4 @@ I work mainly with AWS, Docker, Kubernetes, GitHub Actions, Terraform, Ansible, 
 
 The repositories below contain hands-on labs covering cloud infrastructure, deployment automation, monitoring, logging, and container orchestration.
 
-📫 [LinkedIn]([https://www.linkedin.com/in/gabriel-moraes-preihsner-de-la-cerda-4a883a202/](https://www.linkedin.com/in/gdelacerda/))
+📫 [LinkedIn](https://www.linkedin.com/in/gdelacerda/)
