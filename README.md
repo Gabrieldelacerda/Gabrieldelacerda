@@ -1,9 +1,6 @@
 # Gabriel de la Cerda
 
-Cloud and DevOps-focused engineer building hands-on experience with infrastructure, automation, CI/CD, containerization, and observability. My background in IT support gives me a practical foundation in Linux, troubleshooting, systems, and infrastructure.
-
-I work mainly with AWS, Docker, Kubernetes, GitHub Actions, Terraform, Ansible, Prometheus, Grafana, Loki, Fluent Bit, Nginx, Linux, Bash, and Python.
-
-The repositories below contain hands-on labs covering cloud infrastructure, deployment automation, monitoring, logging, container orchestration, and Linux automation.
+Computer Engineer with a background in IT support and hands-on experience in infrastructure, automation, cloud, and DevOps. My professional experience includes troubleshooting, user support, systems, networking, and operational incident resolution.
+I build practical projects involving AWS, Linux, Bash, Docker, Kubernetes, CI/CD, monitoring, logging, Nginx, Terraform, and Ansible, with a focus on infrastructure reliability, automation, and application support.
 
 📫 [LinkedIn](https://www.linkedin.com/in/gdelacerda/)
