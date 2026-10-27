@@ -16,17 +16,13 @@ Strong background in technical problem-solving, incident investigation, service 
 - **Monitoring & Databases:** Grafana, Zabbix, SQL Server
 - **Additional Technologies:** Kubernetes, Terraform, Ansible
 
-## Featured Projects
+## Featured Project
 
 ### [DevOps Scripts](https://github.com/Gabrieldelacerda/devops-scripts)
 
 A collection of Bash automation scripts for Linux administration, system monitoring, network troubleshooting, service health checks, backups, and SSL certificate validation.
 
 Includes **automated tests, input validation, error handling, ShellCheck, and GitHub Actions CI**, with an emphasis on reliability, maintainability, and operational efficiency.
-
-### [DevOps Lab](https://github.com/Gabrieldelacerda/devops-lab)
-
-Hands-on technical labs exploring Linux administration, containerization, automation, infrastructure troubleshooting, and DevOps practices.
 
 ## Connect
 
