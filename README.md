@@ -1,19 +1,32 @@
 
 # Gabriel de la Cerda
 
-**Computer Engineer | IT Infrastructure | Cloud & DevOps**
+**Computer Engineer | IT Infrastructure & Operations | Cloud & DevOps**
 
-Computer Engineer with a background in enterprise IT support and infrastructure, including troubleshooting, incident resolution, networking, and systems administration.
+Computer Engineer with nearly five years of experience in enterprise IT support and infrastructure, including troubleshooting, incident management, networking, systems administration, and support for business-critical applications.
 
-Currently focused on Cloud/DevOps, building hands-on projects involving **AWS, Linux, Bash, Docker, Kubernetes, Terraform, Ansible, CI/CD, and observability**.
+Strong background in technical problem-solving, incident investigation, service management, and collaboration with technical teams. Hands-on experience with Linux, automation, containers, monitoring, and CI/CD through practical projects and labs.
 
-## Featured Project
+## Technical Skills
+
+- **IT Operations & Support:** Application Support, Incident Management, ITIL, Troubleshooting, Ticketing, Escalation
+- **Systems & Networking:** Linux, Windows Server, TCP/IP, DNS, HTTP/HTTPS, SSH
+- **Automation & CI/CD:** Bash, Python, Git, GitHub Actions
+- **Cloud & Containers:** AWS Fundamentals, Docker
+- **Monitoring & Databases:** Grafana, Zabbix, SQL Server
+- **Additional Technologies:** Kubernetes, Terraform, Ansible
+
+## Featured Projects
 
 ### [DevOps Scripts](https://github.com/Gabrieldelacerda/devops-scripts)
 
-Bash automation tools for Linux operations, monitoring, connectivity checks, backups, and SSL validation.
+A collection of Bash automation scripts for Linux administration, system monitoring, network troubleshooting, service health checks, backups, and SSL certificate validation.
 
-The project includes **automated tests, error handling, ShellCheck, and a GitHub Actions CI pipeline**, with a focus on reliability and maintainability.
+Includes **automated tests, input validation, error handling, ShellCheck, and GitHub Actions CI**, with an emphasis on reliability, maintainability, and operational efficiency.
+
+### [DevOps Lab](https://github.com/Gabrieldelacerda/devops-lab)
+
+Hands-on technical labs exploring Linux administration, containerization, automation, infrastructure troubleshooting, and DevOps practices.
 
 ## Connect
 
