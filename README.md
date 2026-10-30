@@ -1,29 +1,18 @@
-
 # Gabriel de la Cerda
 
-**Computer Engineer | IT Infrastructure & Operations | Cloud & DevOps**
+**Computer Engineer | IT Operations & Infrastructure | Cloud & DevOps**
 
-Computer Engineer with nearly five years of experience in enterprise IT support and infrastructure, including troubleshooting, incident management, networking, systems administration, and support for business-critical applications.
+Computer Engineer with nearly five years of experience in enterprise IT support and infrastructure, including troubleshooting, incident investigation, networking and support for business-critical applications.
 
-Strong background in technical problem-solving, incident investigation, service management, and collaboration with technical teams. Hands-on experience with Linux, automation, containers, monitoring, and CI/CD through practical projects and labs.
+Currently focused on Cloud Operations and DevOps, building on this professional background through hands-on projects in Linux, automation, containers, infrastructure as code and observability.
 
-## Technical Skills
+## Technical Focus
 
-- **IT Operations & Support:** Application Support, Incident Management, ITIL, Troubleshooting, Ticketing, Escalation
-- **Systems & Networking:** Linux, Windows Server, TCP/IP, DNS, HTTP/HTTPS, SSH
-- **Automation & CI/CD:** Bash, Python, Git, GitHub Actions
-- **Cloud & Containers:** AWS Fundamentals, Docker
-- **Monitoring & Databases:** Grafana, Zabbix, SQL Server
-- **Additional Technologies:** Kubernetes, Terraform, Ansible
+- **Systems & Troubleshooting:** Linux, Windows Server, networking and SQL Server.
+- **Automation & Delivery:** Bash, Python, Git and GitHub Actions.
+- **Cloud & Infrastructure:** AWS, Terraform, Ansible, Docker and Kubernetes fundamentals.
+- **Observability:** Prometheus, Grafana, Loki and Fluent Bit.
 
-## Featured Project
-
-### [DevOps Scripts](https://github.com/Gabrieldelacerda/devops-scripts)
-
-A collection of Bash automation scripts for Linux administration, system monitoring, network troubleshooting, service health checks, backups, and SSL certificate validation.
-
-Includes **automated tests, input validation, error handling, ShellCheck, and GitHub Actions CI**, with an emphasis on reliability, maintainability, and operational efficiency.
-
-## Connect
+My projects emphasize reproducible environments, automated checks, incident investigation and service recovery.
 
 [LinkedIn](https://www.linkedin.com/in/gdelacerda/)
