@@ -1,22 +1,27 @@
 # Gabriel de la Cerda
 
-**Computer Engineer | IT Operations & Infrastructure | Cloud & DevOps**
+**Computer Engineer | IT Operations & Application Support | Cloud & DevOps**
 
 Computer Engineer with nearly five years of experience in enterprise IT
-support and operations. My background includes troubleshooting, incident
-investigation, networking and support for business-critical applications.
+support and operations, including troubleshooting, incident investigation,
+networking and support for business-critical applications.
 
-I am building on this experience to move further into Cloud Operations and
-DevOps, with a focus on understanding how systems are deployed, monitored
-and maintained. Through hands-on projects, I explore Linux administration,
-automation, containers, infrastructure as code and observability.
+My professional interests include application support in production
+environments, service reliability and incident management. I value
+structured troubleshooting, clear communication and a thorough
+understanding of how applications and their supporting systems work together.
 
-## Areas of Interest
+Alongside my professional background, I develop hands-on projects in Linux,
+automation, containers, infrastructure as code and observability. These
+projects help me explore operational challenges, investigate failures and
+improve the reliability of services.
 
-- Cloud infrastructure and operations
-- Incident investigation and service reliability
-- Linux administration and troubleshooting
-- Automation and infrastructure as code
+## Areas of Focus
+
+- Application support and production operations
+- Incident management, troubleshooting and service recovery
+- Linux, Windows Server and networking
+- Cloud infrastructure and automation
 - Monitoring, logging and observability
 
 ## Technical Focus
@@ -33,7 +38,8 @@ automation, containers, infrastructure as code and observability.
 A hands-on environment for investigating incidents and practicing service
 recovery with Python, Nginx and Docker Compose.
 
-The lab includes automated HTTP and shutdown checks, a GitHub Actions workflow
-and documentation of a controlled backend outage and its investigation.
+The lab includes automated HTTP and shutdown checks, a GitHub Actions
+workflow and documentation of a controlled backend outage and its
+investigation.
 
 [LinkedIn](https://www.linkedin.com/in/gdelacerda/)
