@@ -38,8 +38,9 @@ improve the reliability of services.
 A hands-on environment for investigating incidents and practicing service
 recovery with Python, Nginx and Docker Compose.
 
-The lab includes automated HTTP and shutdown checks, a GitHub Actions
-workflow and documentation of a controlled backend outage and its
-investigation.
+The lab includes automated HTTP and shutdown checks, proxy log analysis for
+response codes and request latency, and a GitHub Actions workflow that
+collects diagnostic artifacts. It also documents the investigation and
+recovery of a controlled backend outage.
 
 [LinkedIn](https://www.linkedin.com/in/gdelacerda/)
